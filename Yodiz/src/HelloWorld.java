@@ -4,7 +4,7 @@ public class HelloWorld {
 
   public String sayHelloWorld() {
 
-      return "Hello World 12!";
+      return "Hello World popravljen!";
   }
 
 }
